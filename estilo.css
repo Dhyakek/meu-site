@@ -1,0 +1,9 @@
+@charset "UTF-8";
+body{
+    
+    font-family:'Courier New', Courier, monospace;
+    background-image:linear-gradient(to bottom,#424242,#6D6C6E) ;
+    background-attachment:fixed ;
+}
+
+@import url( )
